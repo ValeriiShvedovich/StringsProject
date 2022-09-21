@@ -1,0 +1,7 @@
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\strings project\RemoveStrings\bin\Debug\RemoveStrings.exe.config
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\strings project\RemoveStrings\bin\Debug\RemoveStrings.exe
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\strings project\RemoveStrings\bin\Debug\RemoveStrings.pdb
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\strings project\RemoveStrings\obj\Debug\RemoveStrings.csprojAssemblyReference.cache
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\strings project\RemoveStrings\obj\Debug\RemoveStrings.csproj.CoreCompileInputs.cache
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\strings project\RemoveStrings\obj\Debug\RemoveStrings.exe
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\strings project\RemoveStrings\obj\Debug\RemoveStrings.pdb
